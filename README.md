@@ -1,4 +1,5 @@
-# Exemplo de sprites e entradas com  joypad
+# Exemplo de sprites e entradas com joypad para GameBoy
+## Feito com GBDK
 
 * Código principal [main.c](main.c)
 * Script pra gerar .gb [buildWin.bat](buildWin.bat)
